@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Soham Samaddar 👋
 
-<!--
-**soham6625610-sudo/soham6625610-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Arch Graduate from Jadavpur University
+- 📚 Currently pursuing M.Plan
+- 💻 Learning Python, AI, Data Science and Software Development
+- 🗺️ Interested in GIS, Machine Learning and AI
+- 🚀 Building projects every day to improve my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Python
+- Git & GitHub
+- SQL (Learning)
+- Machine Learning (Learning)
+- Data Science (Learning)
+- GIS
+- ArcGIS Pro
+- QGIS
+
+---
+
+## Current Goals
+
+- Build strong Python projects
+- Learn Data Structures & Algorithms
+- Learn Machine Learning
+- Learn AWS Cloud
+- Crack Software Development and AI Engineering interviews
+
+---
+
+## Featured Repository
+
+- 🎯 python-projects
+
+---
+
+## Contact
+
+📧 Email: soham6625610@gmail.com
